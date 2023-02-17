@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native-unimodules": "~0.13.3"
+  },
+  "name": "js-dependencys"
+}
